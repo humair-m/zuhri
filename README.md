@@ -36,11 +36,11 @@ Word, Phoneme Sequence (space-separated), IPA Transcription, Verified (True/Fals
 
 This dataset is useful for:
 
-- Urdu Text-to-Speech (TTS) systems
-- Automatic Speech Recognition (ASR)
-- Phonetic alignment and transcription
-- Linguistic and phonological research
-- Speech technology applications in Urdu
+- Urdu Text-to-Speech (TTS) systems  
+- Automatic Speech Recognition (ASR)  
+- Phonetic alignment and transcription  
+- Linguistic and phonological research  
+- Speech technology applications in Urdu  
 
 ---
 
@@ -69,19 +69,32 @@ print(df.head())
 
 ## 📚 Citation
 
-If you use this dataset in your research or project, please cite it as:
-```citation
+If you use this dataset in your research, please cite it as follows:
 
-**Author**: Humair Munir  
-**Title**: URDU G2P  
-**License**: Apache 2.0  
-**Email**: humairmunirawan@gmail.com```
+### 📌 Plain Text
+```
+Humair Munir. URDU G2P: Zuhri Urdu Grapheme-to-Phoneme Dataset. Version 1.0, 2025. Licensed under Apache 2.0.
+```
+
+### 📌 BibTeX
+```bibtex
+@humair-pc{humair2025urdug2p,
+  author       = {Humair Munir},
+  title        = {{URDU G2P: Zuhri Urdu Grapheme-to-Phoneme Dataset}},
+  year         = {2025},
+  version      = {1.0},
+  howpublished = {\url{https://github.com/humair-m/zuhri}},
+  note         = {Apache License 2.0}
+}
+```
+
+> 📧 For academic queries, contact: **humairmunirawan@gmail.com**
 
 ---
 
 ## 📜 License
 
-This dataset is released under the **Apache License 2.0**. You are free to use, modify, and distribute it under the terms of this license. For full details, refer to the `LICENSE` file included in the repository.
+This dataset is released under the **Apache License 2.0**. You are free to use, modify, and distribute it under the terms of this license. See the `LICENSE` file for full details.
 
 ---
 
@@ -89,18 +102,18 @@ This dataset is released under the **Apache License 2.0**. You are free to use, 
 
 We welcome contributions from the community! You can:
 
-- Suggest corrections or improvements in phoneme alignments
-- Add more verified Urdu words
-- Extend the dataset for regional dialects
-- Submit pull requests for related G2P utilities or training scripts
+- Suggest corrections or improvements in phoneme alignments  
+- Add more verified Urdu words  
+- Extend the dataset for regional dialects  
+- Submit pull requests for related G2P tools or training scripts  
 
-Please open an issue to discuss your ideas before submitting a PR.
+Please open an issue to discuss your suggestions before submitting a PR.
 
 ---
 
 ## 📬 Contact
 
-For questions, collaborations, or support, feel free to reach out:
+For questions, support, or collaborations, feel free to reach out:
 
 📧 **Email**: humairmunirawan@gmail.com
 
@@ -108,6 +121,6 @@ For questions, collaborations, or support, feel free to reach out:
 
 ## 🧠 Acknowledgment
 
-This dataset is part of an effort to improve linguistic tools and speech resources for underrepresented languages like Urdu. Special thanks to all contributors and the open-source community for support and feedback.
+This dataset is part of an ongoing effort to support low-resource languages like Urdu in the field of speech and language technologies. Thank you to the open-source community for continuous support and feedback.
 
 ---
