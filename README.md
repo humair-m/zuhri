@@ -49,7 +49,7 @@ This dataset is useful for:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/zuhri.git
+git clone https://github.com/humair-m/zuhri.git
 cd zuhri
 ```
 
