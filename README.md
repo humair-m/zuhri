@@ -70,10 +70,12 @@ print(df.head())
 ## 📚 Citation
 
 If you use this dataset in your research or project, please cite it as:
+```citation
 
 **Author**: Humair Munir  
 **Title**: URDU G2P  
 **License**: Apache 2.0  
+**Email**: humairmunirawan@gmail.com```
 
 ---
 
@@ -93,6 +95,14 @@ We welcome contributions from the community! You can:
 - Submit pull requests for related G2P utilities or training scripts
 
 Please open an issue to discuss your ideas before submitting a PR.
+
+---
+
+## 📬 Contact
+
+For questions, collaborations, or support, feel free to reach out:
+
+📧 **Email**: humairmunirawan@gmail.com
 
 ---
 
